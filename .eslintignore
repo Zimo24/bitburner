@@ -1,0 +1,16 @@
+node_modules/
+
+.package
+.build
+.app
+
+dist
+input
+assets
+doc
+markdown
+electron
+tools
+src/ThirdParty
+
+webpack.config.js
